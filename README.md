@@ -3,7 +3,7 @@ Projects on data science and machine learning
 
 All the project are in .ipynb format
 
-Contents:
+**Contents:**
 
 **Age determination using computer vision**
 
