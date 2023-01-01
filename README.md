@@ -1,8 +1,6 @@
 # jupyter_notebooks_ENG
 Projects on data science and machine learning
 
-All the project are in .ipynb format
-
 **Contents:**
 
 **Age determination using computer vision**
