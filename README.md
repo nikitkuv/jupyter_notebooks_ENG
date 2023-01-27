@@ -10,7 +10,7 @@ Projects on data science and machine learning
    - *Files*: non_contract_churn_ENG.ipynb;
    - *Description*: Create a machine learning model to predict non-contractual customer churn based on set of tables containing hystorical customer behavior in retail business;
    - *Skills*: data cleaning, EDA, feature engineering, imbalanced classes, non-contractual churn, machine learning, hyperparameter tuning, analysis of modeling results;
-   - *Libraries*: sklearn, lifetime, statistics, imblearn, pandas, numpy, matplotlib, seaborn;
+   - *Libraries*: lifetimes, sklearn, statistics, imblearn, pandas, numpy, matplotlib, seaborn;
 
 
 
