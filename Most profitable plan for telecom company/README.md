@@ -5,15 +5,10 @@ There is the dataset containing data about two tariff plans of cellular company 
 
 **Goal**: Assess and define the most profitable tariff plan in terms of revenue and which one should have bigger advertising dollars.
 
-**Stack:** pandas, numpy, matplotlib, seaborn, datetime;
+**Stack:** pandas, numpy, matplotlib, seaborn, scipy, math;
 
 **Conclusions:**
-Key pricing factors:
-    - Total area and number of rooms, which is dependent on total area;
-    - Distance to city center for big cities: the price is significantly higher within first 9 km from Saint-Petersburg center, outside this mark there is no relationship between the price and the distance form city center;
-    - Floor category: first floor flats are cheaper, and everywhere except Saint-Petersburg last floor flats are also cheaper than others excluding first floor flats;
-    - There is no relationships between weekday and month of date of offer publication, but we can extract some trends analysing data based on years of publication: since 2016 there is a trend in increasing of the price;
-    - As expected the most expensive flats are in Saint-Petersburg with a high margin from other localities, the second place is Pushkin. The cheapest flats are in Vyborg;
+- In order **to increase revenue** first **it needs to provide higher advertising budget** to higher revenue generating **Ultra plan** in order to attract more clients, becaues of according to the samples the number of Ultra users is 2 times lower than number of Smart users, second it is probably worth **to think about Ultra plan conditions re-development** in the way of decreasing of plan limitations for number of free minutes and messages to have higher probability of getting additional revenue above the plan;
 
 ## Data description
 
