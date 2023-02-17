@@ -36,12 +36,12 @@ Projects on data science and machine learning
 
 
 
-**Telecom clients churn prediction**
+**Telecom customer churn prediction**
 
 [Project link](https://github.com/nikitkuv/jupyter_notebooks/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8)
 
    - *Files*: telecom_churn_prediction_ENG.ipynb;
-   - *Description*: Create a machine learning model to precit telecom clients churn based on clients data;
+   - *Description*: Create a machine learning model to precit telecom customer churn based on clients data;
    - *Skills*: data cleaning, EDA, feature engineering, machine learning, imbalanced classes, hyperparameter tuning, analysis of modeling results;
    - *Libraries*: imblearn, sklearn, lightgbm, pandas, numpy, matplotlib, seaborn;
 
