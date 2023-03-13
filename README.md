@@ -90,17 +90,6 @@ Projects on data science and machine learning
 
 
 
-**Telecom plan recommendation**
-
-[Project link](https://github.com/nikitkuv/jupyter_notebooks/tree/main/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%B0%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8)
-
-   - *Files*: tariff_plan_classification_ENG.ipynb;
-   - *Description*: Create a machine learning model to analyse telecom clients behavior and recommend a new plan;
-   - *Skills*: data cleaning, EDA, feature engineering, machine learning, imbalanced classes, hyperparameter tuning, analysis of modeling results;
-   - *Libraries*: sklearn, pandas, numpy, matplotlib, seaborn;
-
-
-
 **Age determination using computer vision**
 
 [Project link](https://github.com/nikitkuv/jupyter_notebooks/tree/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%20%D1%84%D0%BE%D1%82%D0%BE)
@@ -131,6 +120,16 @@ Projects on data science and machine learning
    - *Description*: Create a machine learning model to make a forecast on the amount of taxi calls in the next one hour to involve more taxi drivers in the mobile app;
    - *Skills*: time series data cleaning, time series EDA, time series feature engineering, machine learning, hyperparameter tuning, analysis of modeling results;
    - *Libraries*: scipy, sklearn, lightgbm, itertools, pandas, numpy, matplotlib, seaborn;
+
+
+**Telecom plan classification**
+
+[Project link](https://github.com/nikitkuv/jupyter_notebooks/tree/main/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%B0%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8)
+
+   - *Files*: tariff_plan_classification_ENG.ipynb;
+   - *Description*: Create a machine learning model to analyse telecom clients behavior and recommend a new plan;
+   - *Skills*: data cleaning, EDA, feature engineering, machine learning, imbalanced classes, hyperparameter tuning, analysis of modeling results;
+   - *Libraries*: sklearn, pandas, numpy, matplotlib, seaborn;
 
 
 
