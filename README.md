@@ -1,6 +1,8 @@
 # jupyter_notebooks_ENG
 Projects on data science and machine learning
 
+Project order is based on its recency so the most recent ones are at the beginning of this list - right below.
+
 **Contents:**
 
 **Retail non-contractual customer churn prediction**
