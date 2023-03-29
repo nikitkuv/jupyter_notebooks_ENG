@@ -49,14 +49,14 @@ Project order is based on its recency so the most recent ones are at the beginni
 
 
 
-**Taxi calls prediction using time series data**
+**Taxi orders prediction using time series data**
 
 [Project link](https://github.com/nikitkuv/jupyter_notebooks/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8)
 
    - *Files*: taxi_orders_time_series_ENG.ipynb;
-   - *Description*: Create a machine learning model to make a forecast on the amount of taxi calls in the next one hour to involve more taxi drivers in the mobile app;
+   - *Description*: Create a machine learning model to make a forecast on the amount of taxi orders in the next one hour to involve more taxi drivers in the mobile app;
    - *Skills*: time series data cleaning, time series EDA, time series feature engineering, machine learning, hyperparameter tuning, analysis of modeling results;
-   - *Libraries*: statmodels, sklearn, lightgbm, itertools, pandas, numpy, matplotlib, seaborn;
+   - *Libraries*: statsmodels, sklearn, lightgbm, itertools, pandas, numpy, matplotlib, seaborn;
 
 
 
