@@ -1,11 +1,11 @@
-# Telecom plan classification
+# Retail non-contractual customer churn prediction
 Data is from retail chain of hypermarkets containing information about clients, products range, hypermarkets and client transactions made in those hypermarkets.
 
 **Status:** Completed
 
 **Goal**: define methodology to predict cutomer churn in non-contractual setting and create a probabilistic model using defined methodology.
 
-**Stack:** sklearn, pandas, numpy, matplotlib, seaborn;
+**Stack:** lifetimes, sklearn, statistics, imblearn, pandas, numpy, matplotlib, seaborn;
 
 **Conclusions:**
 - Two different approaches were applied to solve the original task of customer churn prediction in non-contractual setting: BG/NBD model and classic machine learning algorithms with and without using of some results of BG/NBD.
