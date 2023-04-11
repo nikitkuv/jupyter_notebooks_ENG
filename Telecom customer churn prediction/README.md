@@ -1,11 +1,11 @@
 # Telecom customer churn prediction
 Data on customers, their plans and contracts.
 
-**Status:** Completed
+**Status:** Completed 
 
-**Goal**: build a model which is able to analyse historical customer behavior and recommend a new plan to new customers.
+**Goal**: train a model to predict customer churn in telecom company.
 
-**Stack:** sklearn, pandas, numpy, matplotlib, seaborn;
+**Stack:** imblearn, sklearn, lightgbm, pandas, numpy, matplotlib, seaborn;
 
 **Conclusions:**
 - According to data analysis there are two possible reasons for customers to churn:
