@@ -49,17 +49,6 @@ Project order is based on its recency so the most recent ones are at the beginni
 
 
 
-**Taxi orders prediction using time series data**
-
-[Project link](https://github.com/nikitkuv/jupyter_notebooks/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8)
-
-   - *Files*: taxi_orders_time_series_ENG.ipynb;
-   - *Description*: Create a machine learning model to make a forecast on the amount of taxi orders in the next one hour to involve more taxi drivers in the mobile app;
-   - *Skills*: time series data cleaning, time series EDA, time series feature engineering, machine learning, hyperparameter tuning, analysis of modeling results;
-   - *Libraries*: statsmodels, sklearn, lightgbm, itertools, pandas, numpy, matplotlib, seaborn;
-
-
-
 **Car price prediction**
 
 [Project link](https://github.com/nikitkuv/jupyter_notebooks/tree/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9)
@@ -68,6 +57,17 @@ Project order is based on its recency so the most recent ones are at the beginni
    - *Description*: Create a machine learning model to predict car prices based on car characteristics and history;
    - *Skills*: data cleaning, EDA, feature engineering, imbalanced classes, machine learning, hyperparameter tuning, analysis of modeling results;
    - *Libraries*: sklearn, lightgbm, pandas, numpy, matplotlib, seaborn;
+
+
+
+**Taxi orders prediction using time series data**
+
+[Project link](https://github.com/nikitkuv/jupyter_notebooks/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8)
+
+   - *Files*: taxi_orders_time_series_ENG.ipynb;
+   - *Description*: Create a machine learning model to make a forecast on the amount of taxi orders in the next one hour to involve more taxi drivers in the mobile app;
+   - *Skills*: time series data cleaning, time series EDA, time series feature engineering, machine learning, hyperparameter tuning, analysis of modeling results;
+   - *Libraries*: statsmodels, sklearn, lightgbm, itertools, pandas, numpy, matplotlib, seaborn;
 
 
 
