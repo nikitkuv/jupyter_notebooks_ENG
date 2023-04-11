@@ -1,5 +1,5 @@
-# Telecom plan classification
-Dataset contains data on telecom company customer behavior who used two new tariff plans - Ultra and Smart plans. Company has made a research that many customers still use archive tariff plans.
+# Telecom customer churn prediction
+Data on customers, their plans and contracts.
 
 **Status:** Completed
 
@@ -8,12 +8,18 @@ Dataset contains data on telecom company customer behavior who used two new tari
 **Stack:** sklearn, pandas, numpy, matplotlib, seaborn;
 
 **Conclusions:**
-- The final model is **RandomForestClassifier, having accuracy on test set = 0.8**
+- According to data analysis there are two possible reasons for customers to churn:
+    1. High charges. Most of the customers churn right after starting using company's service because of high charges as a result of not fully understanding the terms of the contract or just because of it is too expensive and there are more cheap relativly the same plans in the competitors
+    2. Uncareful attention and poorly organized communication to the new customers. Majority of the customers churn because of poor service quality
+- According to modeling results, the key features are continuous features related to charges bot total and monthly
+- From categorical features we can highlight presense of fiber connection, contract term, diversity of available services like online security, technical support, internet service, availability of digital reciepts
+- The best models are LGBM default and smote ones having **ROC AUC = 0.91** and **Accuracy = 0.86**
 
 ## Data description
 
- - сalls — number of calls
- - minutes — total minutes spent on calls
- - messages — number of sms messages
- - mb_used — internet traffic used in Mb
- - is_ultra — tariff plan used («Ultra» — 1, «Smart» — 0)
+Data consist of the following files obtained from different sources:
+
+- `contract.csv` — contract information;
+- `personal.csv` — customer information;
+- `internet.csv` — information about plans of customers;
+- `phone.csv` — information about telephony and phone plans.
