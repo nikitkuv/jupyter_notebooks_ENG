@@ -3,7 +3,7 @@ Dataset contains data on telecom company customer behavior who used two new tari
 
 **Status:** Completed
 
-**Goal**: train a model to predict customer churn in telecom company.
+**Goal**: build a model which is able to analyse historical customer behavior and recommend a new plan to new customers.
 
 **Stack:** sklearn, pandas, numpy, matplotlib, seaborn;
 
